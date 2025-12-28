@@ -1,2 +1,2 @@
 # mamelodi.github.io
-Website for the Mamelodi Initiative, an education non-profit in South Africa
+Website for The Mamelodi Initiative, an educational non-profit in South Africa.
