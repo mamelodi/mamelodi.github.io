@@ -17,16 +17,16 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 # Site Settings
 locale                   : "en-US"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
-title                    : "The Mamelodi Initiative"
+title                    : "Mamelodi Initiative"
 title_separator          : "-"
 subtitle                 : "Learn. Grow. Dream. Achieve." # site tagline that appears below site title in masthead
-name                     : "The Mamelodi Initiative"
+name                     : "Mamelodi Initiative"
 description              : "Empowering students in Mamelodi, South Africa."
 url                      : "https://mamelodi.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "mamelodi/mamelodi.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : "assets/images/mi_logo_96x96.png" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
+logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 breadcrumbs              : # true, false (default)
 words_per_minute         : 200
@@ -115,13 +115,16 @@ analytics:
 author:
   name             : "The Mamelodi Initiative"
   avatar           : "/assets/images/mi_logo.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Learn. Grow. Dream. Achieve."
+  bio              : "Empowering students in Mamelodi, South Africa through education, mentorship, and opportunities."
   location         : "South Africa"
   email            :
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:info@mamelodi.org"
+    - label: "LinkedIn"
+      icon: "fas fa-fw fa-linkedin"
+      url: "https://za.linkedin.com/company/the-mamelodi-initiative"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://mamelodi.github.io"
@@ -130,13 +133,13 @@ author:
       # url: "https://twitter.com/"your
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
-      # url: "https://facebook.com/"
+      url: "https://www.facebook.com/themamelodiinitiative/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       # url: "https://github.com/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
+      url: "https://www.instagram.com/the.mamelodi.initiative"
 
 # Site Footer
 footer:

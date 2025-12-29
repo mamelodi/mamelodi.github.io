@@ -1,0 +1,18 @@
+# main links
+main:
+  - title: "About"
+    url: https://mamelodi.org/about/
+  - title: "Programmes"
+    url: https://mamelodi.org/our-programs-2/
+  - title: "Volunteer"
+    url: /volunteer/
+  - title: "Donate"
+    url: /donate/
+  - title: "News & Stories"
+    url: https://mamelodi.org/blog-2/
+  # - title: "Sample Posts"
+  #   url: /year-archive/
+  # - title: "Sample Collections"
+  #   url: /collection-archive/
+  # - title: "Sitemap"
+  #   url: /sitemap/
