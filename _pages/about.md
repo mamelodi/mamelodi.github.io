@@ -65,7 +65,9 @@ camps, all aimed at improving and empowering Mamelodi teens.
 
 Our staff plan and execute all programmes in Mamelodi.
 
-*Staff profiles coming soon.*
+- [Thato Mafokoane](mailto:thato.mafokoane@mamelodi.org), Programme Director
+- [Uyanda Ngobeni](mailto:uyanda.ngobeni@mamelodi.org), Operations and Finance Director
+- [Dimpho Tsotetsi](mailto:dimpho.tsotetsi@mamelodi.org), Operations and Programme Intern
 
 ### Advisory Board
 
