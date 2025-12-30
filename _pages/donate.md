@@ -5,7 +5,11 @@ layout: single
 author_profile: true
 ---
 
-The Mamelodi Initiative requires all types of support to make its programming possible.  Any donation will contribute to making a difference in a child's life.  If you would like to make a donation or in-kind gift in a way not listed below, please email Uyanda Ngobeni at [uyanda.ngobeni@mamelodi.org](mailto:uyanda.ngobeni@mamelodi.org).
+The Mamelodi Initiative requires all types of support to make its programming
+possible.  Any donation will contribute to making a difference in a child's
+life.  If you would like to make a donation or in-kind gift in a way not listed
+below, please email Uyanda Ngobeni (Finance Director) at
+[development@mamelodi.org](mailto:development@mamelodi.org).
 
 ## If You Are in the US
 
