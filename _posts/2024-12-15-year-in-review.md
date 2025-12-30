@@ -9,7 +9,7 @@ tags:
   - programmes
 excerpt: "A look back at our programmes and impact throughout 2024, serving over 500 students in Mamelodi."
 header:
-  teaser: /assets/images/mi_logo_96x96.png
+  teaser: /assets/images/mi_logo.png
 ---
 
 ## Overview
