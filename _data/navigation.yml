@@ -8,5 +8,5 @@ main:
     url: /volunteer/
   - title: "Donate"
     url: /donate/
-  - title: "News & Stories"
-    url: https://mamelodi.org/blog-2/
+  - title: "News"
+    url: /news/
