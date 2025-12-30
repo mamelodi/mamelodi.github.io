@@ -1,0 +1,22 @@
+# AI Agent Instructions
+- Project is a GitHub Pages Jekyll site for The Mamelodi Initiative using the Minimal Mistakes remote theme; core settings live in [_config.yml](_config.yml), which also references the exact version of the remote theme being used (e.g., 4.27.3)
+- Never edit generated output in [_site](_site); change sources in [_pages](_pages), [_posts](_posts), [_data](_data), and [assets](assets).
+- Home uses layout `splash` with hero overlay in [_pages/home.md](_pages/home.md); the `feature_row` include is currently commented out.
+- Static pages (About, Programmes, Volunteer, Donate) use layout `single` with `author_profile: true`, optional `toc: true`; see [_pages/about.md](_pages/about.md) and [_pages/programmes.md](_pages/programmes.md).
+- News index uses layout `home` with `entries_layout: list` in [_pages/news.md](_pages/news.md).  The layout has been modified via [_includes/archive-single.html](_includes/archive-single.html) to add teaser / thumbnail images to the left of each post link.
+- Category landing pages live in [_pages/news-media.md](_pages/news-media.md), [_pages/news-stories.md](_pages/news-stories.md), and [_pages/news-reports.md](_pages/news-reports.md); keep `taxonomy` values (`media`, `stories`, `reports`) aligned with post `categories`.
+- Posts reside in [_posts](_posts) with filenames `YYYY-MM-DD-title.md`; include `categories` (matching taxonomy), optional `tags`, `excerpt`, and `header.teaser` for card thumbnails. Examples: [2024-07-30-summer-jam-highlights.md](_posts/2024-07-30-summer-jam-highlights.md), [2024-11-20-thabos-story.md](_posts/2024-11-20-thabos-story.md), [2024-12-15-year-in-review.md](_posts/2024-12-15-year-in-review.md).
+- Media embeds use the Minimal Mistakes video include (`{% include video id="..." provider="youtube" %}`) as shown in [2024-07-30-summer-jam-highlights.md](_posts/2024-07-30-summer-jam-highlights.md).
+- Navigation menu is defined in [_data/navigation.yml](_data/navigation.yml); update this for new top-level links.
+- Favicon and manifest tags are injected via [_includes/head/custom.html](_includes/head/custom.html); place icon assets under [assets/favicon](assets/favicon).
+- Buttons/styles rely on Minimal Mistakes utility classes, e.g., `{: .btn .btn--primary .btn--large}` as used in [_pages/donate.md](_pages/donate.md).
+- Markdown engine is kramdown with Rouge; front matter keys `author_profile`, `toc`, `entries_layout`, `taxonomy`, and `header` drive theme behavior.
+- Permalinks are set explicitly per page; keep trailing slashes (e.g., `/news/`, `/donate/`) to match navigation and avoid redirects.
+- Plugins are pinned through the `github-pages` gem and `jekyll-include-cache`; pagination via `jekyll-paginate` is enabled.
+- Local dev: run `bundle install` once, then `bundle exec jekyll serve --livereload`; restart the server after editing [_config.yml](_config.yml).
+- Production check: `JEKYLL_ENV=production bundle exec jekyll build` mirrors GitHub Pages; output lands in [_site](_site).
+- Deployment: pushing to the default branch triggers GitHub Pages build; `baseurl` is empty so links are absolute from root.
+- Assets: store images in [assets/images](assets/images) and reference with absolute `/assets/...` paths; prefer `header.teaser` for post list thumbnails.
+- Site metadata (title, subtitle, author links, social placeholders) is configured in [_config.yml](_config.yml); keep `locale` and `url` consistent.
+- Prefer theme overrides via local `_includes`, `_layouts`, or `_sass` rather than modifying generated or remote theme files.
+- When adding new section pages, mirror existing front matter patterns to maintain layout consistency and navigation expectations.
