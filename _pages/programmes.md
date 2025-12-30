@@ -22,6 +22,8 @@ The Mamelodi Initiative Summer Jam is a two-week, all-day programme designed to 
 
 The morning time focuses on skills curriculum while the afternoon allows students to explore various enrichment workshops.
 
+**Serves:** Grades 7, 8, 9, 10, 11, and 12
+
 ---
 
 ## Winter Jam
@@ -34,24 +36,23 @@ The aim of the morning curriculum is to move our youth toward performing at or a
 
 ---
 
-## Saturday Classes
+## Road to Finals
 
-The Mamelodi Initiative's Saturday classes address the challenges of overpopulated classrooms and high student-to-teacher ratios in Mamelodi schools. These supplementary classes provide focused attention on core subjects, with particular emphasis on mathematics and English.
+The Mamelodi Initiative's Road to Finals programme consists of extra classes
+that address the challenges of overpopulated classrooms and high
+student-to-teacher ratios in Mamelodi schools. These classes provide focused
+attention on core subjects, with particular emphasis on mathematics and English.
+Additional subjects include life sciences, physical sciences, accounting, and
+others.
 
-Classes are held every Saturday at our partner schools, combining academic rigor with community engagement to help students reach their full potential.
+Classes are held weekly after school and on Saturday at our partner schools,
+combining academic rigor with community engagement to help students reach their
+full potential.
 
----
-
-## Computer Literacy Courses
-
-Our computer literacy courses provide students with essential digital skills for the modern world. These courses help bridge the technology gap and prepare students for future educational and career opportunities.
-
-*Programme details coming soon.*
+**Serves:** Grades 8, 9, 10, 11, and 12
 
 ---
 
 ## Youth Leadership Council
 
 The Youth Leadership Council empowers young leaders in Mamelodi to make positive changes in their community. Through this programme, students develop leadership skills, civic engagement, and a voice in shaping the future of their township.
-
-*Programme details coming soon.*
