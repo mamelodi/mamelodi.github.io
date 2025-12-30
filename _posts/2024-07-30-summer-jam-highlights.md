@@ -2,7 +2,7 @@
 title: "Summer Jam 2024 Highlights"
 date: 2024-07-30
 categories:
-  - videos
+  - media
 tags:
   - summer-jam
   - programmes
