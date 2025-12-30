@@ -10,7 +10,7 @@ If you love kids and are passionate about teaching and making a difference, then
 ## How to Apply
 
 To volunteer with our programs, please contact our Program Director **Thato Mafokoane**:
-- Email: [thato.mafokoane@mamelodi.org](mailto:thato.mafokoane@mamelodi.org)
+- Email: [info@mamelodi.org](mailto:info@mamelodi.org)
 - WhatsApp: +27 69 259 6435
 
 Please include:
