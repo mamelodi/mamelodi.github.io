@@ -9,7 +9,7 @@ tags:
   - students
 excerpt: "Watch highlights from our Summer Jam 2024 programme featuring student testimonials and programme activities."
 header:
-  teaser: https://img.youtube.com/vi/dQw4w9WgXcQ/hqdefault.jpg
+  teaser: https://img.youtube.com/vi/dQw4w9WgXcQ/mqdefault.jpg
 ---
 
 {% include video id="dQw4w9WgXcQ" provider="youtube" %}
