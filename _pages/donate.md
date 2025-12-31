@@ -13,9 +13,9 @@ below, please email Uyanda Ngobeni (Finance Director) at
 
 ## If You Are in the US
 
-Click below to make an online donation, which will be processed by Network for Good.
+Click the button below to make an online donation through Network for Good.
 
-[Donate Online](https://donatenow.networkforgood.org/mamelodi){: .btn .btn--primary .btn--large}
+[<i class="fas fa-heart"></i> Donate Online](https://donatenow.networkforgood.org/mamelodi){: .btn .btn--primary .btn--large}
 
 Alternatively, you can mail a check to:
 ```
