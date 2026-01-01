@@ -43,9 +43,7 @@ feature_row:
   {% include feature_row %}
 {% endcomment %}
 
-<div style="display: flex; align-items: center; justify-content: center; min-height: 15vh;">
-  <div style="text-align: center; font-style: italic; font-size: 1.3em; color: #7a8288;">
-    "Education is the most powerful weapon you can use to change the world."
-    <br><small>— Nelson Mandela</small>
-  </div>
+<div style="text-align: center; padding: 1em 0 0 0; font-style: italic; font-size: 1.3em; color: #7a8288;">
+  "Education is the most powerful weapon you can use to change the world."
+  <br><small>— Nelson Mandela</small>
 </div>
