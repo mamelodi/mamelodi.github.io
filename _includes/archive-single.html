@@ -1,3 +1,15 @@
+<!--
+  Based on archive-single.html from Minimal Mistakes Jekyll Theme 4.27.3 by Michael Rose
+  Copyright 2013-2024 Michael Rose - mademistakes.com | @mmistakes
+  Free for personal and commercial use under the MIT license
+  https://github.com/mmistakes/minimal-mistakes/blob/master/LICENSE
+
+  Modified by The Mamelodi Initiative:
+  - Restructured teaser layout using flexbox for side-by-side image and content
+  - Added inline styles for custom spacing and image sizing
+  - Added date prefix to excerpt display
+-->
+
 {% if post.header.teaser %}
   {% capture teaser %}{{ post.header.teaser }}{% endcapture %}
 {% else %}
@@ -30,7 +42,7 @@
             {% endif %}
           </h2>
           {% include page__meta.html type=include.type %}
-          {% if post.excerpt %}<p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify | strip_html | truncate: 160 }}</p>{% endif %}
+          {% if post.excerpt %}<p class="archive__item-excerpt" itemprop="description">{{ post.date | date: "%Y-%m-%d" }} – {{ post.excerpt | markdownify | strip_html | truncate: 160 }}</p>{% endif %}
         </div>
       </div>
     {% else %}
@@ -42,7 +54,7 @@
         {% endif %}
       </h2>
       {% include page__meta.html type=include.type %}
-      {% if post.excerpt %}<p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify | strip_html | truncate: 160 }}</p>{% endif %}
+      {% if post.excerpt %}<p class="archive__item-excerpt" itemprop="description">{{ post.date | date: "%Y-%m-%d" }} – {{ post.excerpt | markdownify | strip_html | truncate: 160 }}</p>{% endif %}
     {% endif %}
   </article>
 </div>
