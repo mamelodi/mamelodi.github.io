@@ -9,7 +9,7 @@ tags:
   - university
 excerpt: "Meet Thabo, a former Summer Jam participant who is now studying engineering at the University of Pretoria."
 header:
-  teaser: /assets/images/mi_logo.png
+  teaser: /assets/images/default_teaser_icon_stories.png
 ---
 
 ## A Journey of Transformation
