@@ -14,7 +14,7 @@ header:
 
 Winter Jam 2025 successfully delivered a three-week academic enrichment programme, recording 4,660 learner check-ins with an average of 291 learners per day. Daily attendance grew steadily across the programme, from 270 in Week 1 to 310 in Week 3, peaking at 314 learners on July 14.
 
-[<i class="fas fa-download"></i> Download Full Report (PDF)](/assets/files/2025-07-25_WinterJam2025_Report.pdf){: .btn .btn--primary .btn--large}
+[<i class="fas fa-download"></i> Download Full Report (PDF)](/assets/files/2025-07-25_MI_WinterJam2025_Report.pdf){: .btn .btn--primary .btn--large}
 
 ## Programme Reach
 
