@@ -5,8 +5,6 @@ categories:
   - reports
 tags:
   - winter-jam
-  - impact
-  - programmes
 excerpt: "The inaugural Winter Programme served 154 learners daily, establishing the foundation for The Mamelodi Initiative's holiday learning loss prevention efforts."
 header:
   teaser: /assets/images/mi_logo.png

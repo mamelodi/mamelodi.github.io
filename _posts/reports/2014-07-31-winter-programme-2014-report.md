@@ -5,8 +5,6 @@ categories:
   - reports
 tags:
   - winter-jam
-  - impact
-  - programmes
 excerpt: "The 2014 Winter Programme provided holiday academic support to combat learning loss and equip Mamelodi learners with essential skills for secondary school success."
 header:
   teaser: /assets/images/mi_logo.png

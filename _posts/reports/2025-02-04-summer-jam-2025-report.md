@@ -5,8 +5,6 @@ categories:
   - reports
 tags:
   - summer-jam
-  - impact
-  - programmes
 excerpt: "Summer Jam 2025 brought together students from across Mamelodi for an intensive two-week academic enrichment programme."
 header:
   teaser: /assets/images/mi_logo.png

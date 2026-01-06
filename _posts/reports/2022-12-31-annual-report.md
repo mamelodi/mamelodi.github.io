@@ -5,8 +5,6 @@ categories:
   - reports
 tags:
   - annual-report
-  - impact
-  - programmes
 excerpt: "A comprehensive look at The Mamelodi Initiative's programmes and impact throughout 2022, highlighting our continued commitment to educational equity."
 header:
   teaser: /assets/images/mi_logo.png

@@ -5,8 +5,6 @@ categories:
   - reports
 tags:
   - winter-jam
-  - impact
-  - programmes
 excerpt: "Winter Jam 2024 marked the first time the programme was hosted at Tsako Thabo Secondary School, bringing together learners for three weeks of intensive academic support."
 header:
   teaser: /assets/images/mi_logo.png

@@ -5,8 +5,6 @@ categories:
   - reports
 tags:
   - winter-jam
-  - impact
-  - programmes
 excerpt: "The 2012 Winter Programme expanded to serve 218 learners daily, providing critical holiday academic support and soft skills development to combat learning loss in Mamelodi."
 header:
   teaser: /assets/images/mi_logo.png

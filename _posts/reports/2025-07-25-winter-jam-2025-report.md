@@ -5,8 +5,6 @@ categories:
   - reports
 tags:
   - winter-jam
-  - impact
-  - programmes
 excerpt: "Winter Jam 2025 reached 374 learners from 63 schools across three weeks of intensive academic support during the June-July school holidays."
 header:
   teaser: /assets/images/mi_logo.png
