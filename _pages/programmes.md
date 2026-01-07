@@ -46,7 +46,7 @@ Additional subjects include life sciences, physical sciences, accounting, and
 others.
 
 Classes are held weekly after school and on Saturdays at our partner schools
-throughout school terms (February-June and July-December), combining academic
+throughout school terms (February-June and August-December), combining academic
 rigor with community engagement to help students reach their full potential.
 
 **Serves:** Grades 8, 9, 10, 11, and 12
