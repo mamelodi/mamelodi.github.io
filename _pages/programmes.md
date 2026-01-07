@@ -16,9 +16,9 @@ The Mamelodi Initiative runs several different programmes throughout the year, e
 
 The Mamelodi Initiative Summer Jam is a two-week, all-day programme in January designed to focus on life-long skills for Mamelodi high school students. Launched in January 2011, the programme focuses on:
 
-- **Study skills**
-- **Leadership skills**
-- **Community engagement**
+- Study skills
+- Leadership skills
+- Community engagement
 
 The morning time focuses on skills curriculum while the afternoon allows students to explore various enrichment workshops.
 
