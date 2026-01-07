@@ -22,22 +22,22 @@ information:
 - Publication date
 - Story title
 - Main content (text)
-- Brief excerpt (1-2 sentences, under 160 characters)
+- Brief excerpt (1-2 sentences, under 160 characters) that will appear on the [news page](https://mamelodi.org/news/)
 - Optional: Photo or image
-- Optional: Thumbnail image (approximately 150px wide for list view)
+- Optional: Thumbnail image (approximately 150px wide for news page)
 
 **For Media Posts** (videos and photos):
 - Publication date
 - Media title
-- Brief description or excerpt (1-2 sentences, under 160 characters)
+- Brief excerpt (1-2 sentences, under 160 characters) that will appear on the [news page](https://mamelodi.org/news/)
 - YouTube or Vimeo video URL (if applicable) - thumbnail will be automatically pulled from the video
 - Photos or image files (if applicable)
-- Optional: Thumbnail image (approximately 150px wide for list view) - only needed for non-video media
+- Optional: Thumbnail image (approximately 150px wide for news page)
 
 **For Reports** (programme reports, annual reports, evaluations):
 - Publication date
 - Report title
-- Brief excerpt (1-2 sentences, under 160 characters) for list view
+- Brief excerpt (1-2 sentences, under 160 characters) that will appear on the [news page](https://mamelodi.org/news/)
 - Executive summary (full summary paragraph/section for the report page)
 - Full report content (attach PDF file)
 
