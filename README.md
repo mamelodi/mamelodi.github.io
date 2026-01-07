@@ -39,7 +39,7 @@ information:
 - Report title
 - Brief excerpt (1-2 sentences, under 160 characters) for list view
 - Executive summary (full summary paragraph/section for the report page)
-- Full report content (text) or download link (PDF)
+- Full report content (attach PDF file)
 - Optional: Tags (e.g., "summer-jam", "winter-jam", "annual-report")
 
 ### For Developers
@@ -55,7 +55,7 @@ If you're comfortable with GitHub and Jekyll:
 4. Use these examples as templates:
    - Stories: [`_posts/stories/2015-05-20-marvin-lukas-segl.md`](_posts/stories/2015-05-20-marvin-lukas-segl.md)
    - Reports: [`_posts/reports/2025-02-04-summer-jam-2025-report.md`](_posts/reports/2025-02-04-summer-jam-2025-report.md)
-   - Media: [`_posts/media/2013-07-31-why-education.md`](_posts/media/2013-07-31-why-education.md)
+   - Media: [`_posts/media/2021-02-16-stationary-drive.md`](_posts/media/2021-02-16-stationary-drive.md)
 5. Include required front matter: `title`, `date`, `categories`, `excerpt`, and `header.teaser` (defaults may be used); optional: `tags`
 6. For video embeds, use: `{% include video id="..." provider="youtube" %}` or `provider="vimeo"`
 7. Submit a pull request
