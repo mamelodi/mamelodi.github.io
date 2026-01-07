@@ -56,6 +56,6 @@ rigor with community engagement to help students reach their full potential.
 ## Youth Leadership Council
 
 The Youth Leadership Council (YLC) empowers young leaders in Mamelodi to make
-positive changes in their community. Meeting monthly throughout the year,
+positive changes in their community. Meeting monthly from February through November,
 students develop leadership skills, civic engagement, and a voice in shaping the
 future of their township.
