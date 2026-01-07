@@ -16,11 +16,9 @@ The Mamelodi Initiative runs several different programmes throughout the year, e
 
 The Mamelodi Initiative Summer Jam is a two-week, all-day programme in January designed to focus on life-long skills for Mamelodi high school students. Launched in January 2011, the programme focuses on:
 
-- **Study skills** for rising Grade 8 learners
-- **Leadership skills** for rising Grade 9 learners
-- **Community engagement** for rising Grade 10 learners
-
-<!-- TODO: Bullets only mention programming for rising Grade 8, 9, and 10, but serves says Grades 7-12. Need to clarify what programming exists for Grades 7, 11, and 12 -->
+- **Study skills**
+- **Leadership skills**
+- **Community engagement**
 
 The morning time focuses on skills curriculum while the afternoon allows students to explore various enrichment workshops.
 
@@ -58,8 +56,6 @@ rigor with community engagement to help students reach their full potential.
 ## Youth Leadership Council
 
 The Youth Leadership Council (YLC) empowers young leaders in Mamelodi to make
-positive changes in their community. Through this programme, students develop
-leadership skills, civic engagement, and a voice in shaping the future of their
-township.
-
-<!-- TODO: Add schedule details: "Through this programme, which runs during [days/times] from [month] to [month], students develop..." -->
+positive changes in their community. Meeting monthly throughout the year,
+students develop leadership skills, civic engagement, and a voice in shaping the
+future of their township.
