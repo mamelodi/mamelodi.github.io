@@ -14,11 +14,13 @@ The Mamelodi Initiative runs several different programmes throughout the year, e
 
 ## Summer Jam
 
-The Mamelodi Initiative Summer Jam is a two-week, all-day programme designed to focus on life-long skills for Mamelodi high school students. Launched in January 2011, the programme focuses on:
+The Mamelodi Initiative Summer Jam is a two-week, all-day programme in January designed to focus on life-long skills for Mamelodi high school students. Launched in January 2011, the programme focuses on:
 
 - **Study skills** for rising Grade 8 learners
 - **Leadership skills** for rising Grade 9 learners
 - **Community engagement** for rising Grade 10 learners
+
+<!-- TODO: Bullets only mention programming for rising Grade 8, 9, and 10, but serves says Grades 7-12. Need to clarify what programming exists for Grades 7, 11, and 12 -->
 
 The morning time focuses on skills curriculum while the afternoon allows students to explore various enrichment workshops.
 
@@ -28,7 +30,7 @@ The morning time focuses on skills curriculum while the afternoon allows student
 
 ## Winter Jam
 
-The Mamelodi Initiative Winter Jam is a three-week, all-day programme designed to focus on academic excellence. The curriculum focuses on the maths and English requirements of South Africa's national curriculum.
+The Mamelodi Initiative Winter Jam is a three-week, all-day programme running between June and July designed to focus on academic excellence. The curriculum focuses on the maths and English requirements of South Africa's national curriculum.
 
 The aim of the morning curriculum is to move our youth toward performing at or above grade level in their subjects, by focusing on maths and English. The afternoon is geared toward exploration and enrichment activities.
 
@@ -38,16 +40,16 @@ The aim of the morning curriculum is to move our youth toward performing at or a
 
 ## Road to Finals
 
-The Mamelodi Initiative's Road to Finals programme consists of extra classes
+The Mamelodi Initiative's Road to Finals (RTF) programme consists of extra classes
 that address the challenges of overpopulated classrooms and high
 student-to-teacher ratios in Mamelodi schools. These classes provide focused
 attention on core subjects, with particular emphasis on mathematics and English.
 Additional subjects include life sciences, physical sciences, accounting, and
 others.
 
-Classes are held weekly after school and on Saturday at our partner schools,
-combining academic rigor with community engagement to help students reach their
-full potential.
+Classes are held weekly after school and on Saturdays at our partner schools
+throughout school terms (February-June and July-December), combining academic
+rigor with community engagement to help students reach their full potential.
 
 **Serves:** Grades 8, 9, 10, 11, and 12
 
@@ -55,4 +57,9 @@ full potential.
 
 ## Youth Leadership Council
 
-The Youth Leadership Council empowers young leaders in Mamelodi to make positive changes in their community. Through this programme, students develop leadership skills, civic engagement, and a voice in shaping the future of their township.
+The Youth Leadership Council (YLC) empowers young leaders in Mamelodi to make
+positive changes in their community. Through this programme, students develop
+leadership skills, civic engagement, and a voice in shaping the future of their
+township.
+
+<!-- TODO: Add schedule details: "Through this programme, which runs during [days/times] from [month] to [month], students develop..." -->
