@@ -40,7 +40,6 @@ information:
 - Brief excerpt (1-2 sentences, under 160 characters) for list view
 - Executive summary (full summary paragraph/section for the report page)
 - Full report content (attach PDF file)
-- Optional: Tags (e.g., "summer-jam", "winter-jam", "annual-report")
 
 ### For Developers
 
