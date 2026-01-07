@@ -1,7 +1,8 @@
-# The Mamelodi Initiative Website
+# mamelodi.github.io
 
-This repository contains the Jekyll source code for The Mamelodi Initiative
-website, an educational non-profit in South Africa.
+This is the website repository for The Mamelodi Initiative, an educational
+non-profit in South Africa. The site is built with Jekyll and automatically
+published to mamelodi.org via GitHub Pages.
 
 **Want to contribute content or report an issue?** Email
 [info@mamelodi.org](mailto:info@mamelodi.org) or see the sections below.
