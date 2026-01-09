@@ -8,6 +8,7 @@ vendor/
 
 # Ruby
 *.gem
+Gemfile.lock
 
 # OS files
 .DS_Store
