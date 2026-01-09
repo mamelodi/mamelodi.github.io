@@ -92,6 +92,8 @@ Found a bug or have a suggestion? You can:
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
+for details.
 
-Some layout files in `_includes/` are derived from the Minimal Mistakes theme, which is also MIT licensed.
+Some layout files in `_includes/` are derived from the Minimal Mistakes theme by
+Michael Rose, which is also MIT licensed.
