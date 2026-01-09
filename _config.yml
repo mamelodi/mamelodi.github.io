@@ -236,7 +236,9 @@ timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Pagination with jekyll-paginate
-paginate: 10 # amount of posts to show
+# Note: Uncomment and set the number of posts to show per page.
+# If commented out, the pagination plugin will be disabled.
+#paginate: 10
 paginate_path: /page:num/
 
 # Pagination with jekyll-paginate-v2
