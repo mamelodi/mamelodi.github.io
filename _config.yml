@@ -22,7 +22,7 @@ title_separator          : "-"
 subtitle                 : "Learn. Grow. Dream. Achieve." # site tagline that appears below site title in masthead
 name                     : "Mamelodi Initiative"
 description              : "Empowering students in Mamelodi, South Africa."
-url                      : "https://mamelodi.github.io"
+url                      : "https://mamelodi.org"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "mamelodi/mamelodi.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
