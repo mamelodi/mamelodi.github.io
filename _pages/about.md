@@ -18,25 +18,23 @@ wants to see.
 
 ## Why Education
 
-Nelson Mandela once said, "Education is the most powerful weapon you can use to
-change the world."
+Nelson Mandela once said, "Education is the most powerful weapon you can use to change the world." This remains true especially in communities where access to quality learning opportunities is uneven, and the consequences of educational disadvantage are far-reaching.
 
-Unfortunately, less than 50% of adults in Gauteng passed Matric and research
-shows non-white South Africans are the most likely to drop out, making this
-issue even more urgent in township communities. Increased drop-out rates lead to
-higher unemployment, higher crime rates, and more reliance on the government.
-Part of the reason for drop-outs is an accumulation of a knowledge gap. Research
-shows the holiday learning loss for low-income or disadvantaged youth is at
-least double that of their higher-income counterparts who traditionally have
-greater access to holiday programming.
+South Africa recently recorded its highest National Senior Certificate pass rate in history, which was 88% in 2025 (BusinessTech, 2025), with Gauteng achieving a pass rate above 89% (DBE, 2025). The Stats SA General Household Survey (Stats SA, 2024), as analysed in the DBE 2024 sector review, shows that the proportion of young people completing 12 years of schooling increased from 45% in 2008 to about 65% in 2024. However, survival rates decline sharply between Grades 10 and 12, and even in 2024, only about two-thirds of learners nationally reached matric (DBE, 2025). This means that **nearly one in three learners still leaves the schooling system before completing Grade 12,** indicating that dropout remains a structural problem within the education system.
 
-Mamelodi is home to between 450,000 and 1.5 million people. Yet many youths,
-particularly young women, are not given the opportunity to access educational
-opportunities that can literally transform the world within which they operate.
-Mamelodi is challenged with high drop out rates, low matric pass rates, and
-extremely low university attendance rates. We have chosen to implement our
-programming here because we want to equip young people in Mamelodi with that
-"most powerful weapon" so that they can change their world.
+Provincial data further highlights both progress and persistent gaps, particularly in Gauteng. For the 2003 birth cohort (18 years of age in 2025 and should be in Grade 12), Gauteng recorded one of the highest NSC survival rates nationally, with just over **50% of learners completing Grade 12** (News24, 2025), placing it among the stronger-performing provinces (DBE, 2025). At the same time, the data shows that learner mobility plays a role, with some learners from other provinces completing matric in Gauteng. Despite these strengths, almost half of learners in the province still do not complete school within the expected timeframe. Dropout remains concentrated among learners from low-income and township communities, where challenges such as transport costs, household responsibilities, limited academic support, and unsafe environments are more common. These patterns highlight the continued need for targeted academic and social support programmes to improve learner retention and long-term educational outcomes.
+
+In areas like Mamelodi, with an estimated population of over a million, these challenges are compounded by low secondary school retention, high dropout rates, and limited access to support beyond formal school hours. Despite official pass rates, many young people do not transition smoothly into further education or employment, with both completion and longer-term participation in higher education remaining low compared to national averages.
+
+This is why we focus our work in Mamelodi.  Our academic and skills-based programmes equip young people in Mamelodi with that "most powerful weapon" so that they can change their communities and their world.
+
+**References**
+1. Department of Basic Education (DBE). National Senior Certificate Examination Results 2025. Government of South Africa. Online: [(direct link)](https://www.education.gov.za/Portals/0/Documents/Reports/2025%20NSC%20Examination%20Report.pdf?ver=2026-01-12-191404-240)
+2. BusinessTech (2025). 2025 matric pass rate hits a record 88% in South Africa. Online: [(direct link)] (https://businesstech.co.za/news/government/847709/2025-matric-pass-rate-hits-record-88-in-south-africa/)
+3. News24 (2025). Less than half of Grade 10 learners make it to matric. Online: [(direct link)](https://www.news24.com/southafrica/education/faces-of-the-drop-out-rate-less-than-half-of-2023s-grade-10s-reached-matric-in-2025-20260125-0890)
+4. Stats SA (2024). General Household Survey, 2024. Online:  [(direct link)] (https://www.statssa.gov.za/publications/P0318/P03182024.pdf)
+
+
 
 ## Our History
 
