@@ -30,9 +30,9 @@ This is why we focus our work in Mamelodi.  Our academic and skills-based progra
 
 **References**
 1. Department of Basic Education (DBE). National Senior Certificate Examination Results 2025. Government of South Africa. Online: [(direct link)](https://www.education.gov.za/Portals/0/Documents/Reports/2025%20NSC%20Examination%20Report.pdf?ver=2026-01-12-191404-240)
-2. BusinessTech (2025). 2025 matric pass rate hits a record 88% in South Africa. Online: [(direct link)] (https://businesstech.co.za/news/government/847709/2025-matric-pass-rate-hits-record-88-in-south-africa/)
+2. BusinessTech (2025). 2025 matric pass rate hits a record 88% in South Africa. Online: [(direct link)](https://businesstech.co.za/news/government/847709/2025-matric-pass-rate-hits-record-88-in-south-africa/)
 3. News24 (2025). Less than half of Grade 10 learners make it to matric. Online: [(direct link)](https://www.news24.com/southafrica/education/faces-of-the-drop-out-rate-less-than-half-of-2023s-grade-10s-reached-matric-in-2025-20260125-0890)
-4. Stats SA (2024). General Household Survey, 2024. Online:  [(direct link)] (https://www.statssa.gov.za/publications/P0318/P03182024.pdf)
+4. Stats SA (2024). General Household Survey, 2024. Online:  [(direct link)](https://www.statssa.gov.za/publications/P0318/P03182024.pdf)
 
 
 
