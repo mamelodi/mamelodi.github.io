@@ -26,7 +26,7 @@ Provincial data further highlights both progress and persistent gaps, particular
 
 In areas like Mamelodi, with an estimated population of over a million, these challenges are compounded by low secondary school retention, high dropout rates, and limited access to support beyond formal school hours. Despite official pass rates, many young people do not transition smoothly into further education or employment, with both completion and longer-term participation in higher education remaining low compared to national averages.
 
-This is why we focus our work in Mamelodi to support learners with consistent academic and skills-based programmes that bridge gaps, strengthen foundational knowledge, and empower young people to pursue further education and meaningful opportunities. Education isn’t just a path to individual growth; it is essential for the well-being of families, communities, and the country as a whole.
+This is why we focus our work in Mamelodi.  Our academic and skills-based programmes equip young people in Mamelodi with that "most powerful weapon" so that they can change their communities and their world.
 
 **References**
 1. Department of Basic Education (DBE). National Senior Certificate Examination Results 2025. Government of South Africa. Online: [(direct link)](https://www.education.gov.za/Portals/0/Documents/Reports/2025%20NSC%20Examination%20Report.pdf?ver=2026-01-12-191404-240)
