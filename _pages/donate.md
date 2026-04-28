@@ -35,7 +35,7 @@ You can donate online through our BackaBuddy campaign for the 2026 Winter Jam (2
 [<i class="fas fa-hand-holding-heart"></i> Donate via BackaBuddy (RSA)](https://www.backabuddy.co.za/campaign/sponsor-a-learner-for-winter-jam-2026){: .btn .btn--primary .btn--large target="_blank" rel="noopener noreferrer"}
 
 
-The Mamelodi Initiative is a **Section 18A** registered organisation; your donation qualifies for a South African tax deduction.
+The Mamelodi Initiative is a **Section 18A**-approved organisation; your donation qualifies for a South African tax deduction.
 
 - **NPO:** 126-143
 - **PBO:** 930078512
