@@ -30,8 +30,17 @@ Brookline, MA 02445
 
 ## If You Are in South Africa
 
-**NPO:** 126-143
-**PBO:** 930078512
+You can donate online through our BackaBuddy campaign for the 2026 Winter Jam (29 June - 18 July):
+
+[<i class="fas fa-hand-holding-heart"></i> Donate via BackaBuddy](https://www.backabuddy.co.za/campaign/sponsor-a-learner-for-winter-jam-2026){: .btn .btn--primary .btn--large target="_blank" rel="noopener noreferrer"}
+
+
+We are a **Section 18A** registered organisation, enabling tax-deductible donations for South African taxpayers.
+
+- **NPO:** 126-143
+- **PBO:** 930078512
+
+Alternatively, you can donate directly via bank transfer:
 
 ### Banking Details
 
