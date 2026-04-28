@@ -30,7 +30,7 @@ Brookline, MA 02445
 
 ## If You Are in South Africa
 
-You can donate online through our BackaBuddy campaign for the 2026 Winter Jam (29 June - 18 July):
+You can donate online through our BackaBuddy campaign for the 2026 Winter Jam (programme runs 29 June – 18 July):
 
 [<i class="fas fa-hand-holding-heart"></i> Donate via BackaBuddy (RSA)](https://www.backabuddy.co.za/campaign/sponsor-a-learner-for-winter-jam-2026){: .btn .btn--primary .btn--large target="_blank" rel="noopener noreferrer"}
 
