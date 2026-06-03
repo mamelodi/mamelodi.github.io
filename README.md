@@ -74,15 +74,20 @@ after merging.
 
 ### Running Locally
 
-If you already have Ruby and Bundler installed:
+This project pins Ruby **3.3.4** (matching GitHub Pages) via `.ruby-version`.
+The Ruby version is taken from the GitHub Pages dependency manifest at
+[pages.github.com/versions.json](https://pages.github.com/versions.json).
+The recommended way to manage Ruby versions is [rbenv](https://github.com/rbenv/rbenv):
+
 ```bash
+rbenv install 3.3.4   # only needed once
 bundle install
 bundle exec jekyll serve --livereload
 ```
 
-If you're new to Jekyll, you'll first need to install Ruby (2.7+) and Bundler.
-See the [Jekyll installation guide](https://jekyllrb.com/docs/installation/) for
-platform-specific instructions.
+If you're new to rbenv, follow the [rbenv installation guide](https://github.com/rbenv/rbenv#installation)
+for platform-specific instructions. Once rbenv is set up, it will automatically
+use the correct Ruby version when you `cd` into this directory.
 
 ## Issues
 
