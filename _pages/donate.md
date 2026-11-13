@@ -30,9 +30,9 @@ Brookline, MA 02445
 
 ## If You Are in South Africa
 
-You can donate online through our BackaBuddy campaign for the 2026 Winter Jam (programme runs from 29 June – 18 July):
+You can donate online through our BackaBuddy campaign for the 2027 Summer Jam (programme runs from 2 – 9 January):
 
-[<i class="fas fa-hand-holding-heart"></i> Donate via BackaBuddy (RSA)](https://www.backabuddy.co.za/campaign/sponsor-a-learner-for-winter-jam-2026){: .btn .btn--primary .btn--large target="_blank" rel="noopener noreferrer"}
+[<i class="fas fa-hand-holding-heart"></i> Donate via BackaBuddy (RSA)](https://www.backabuddy.co.za/campaign/the-mamelodi-initiatve-summer-jam-2027){: .btn .btn--primary .btn--large target="_blank" rel="noopener noreferrer"}
 
 
 The Mamelodi Initiative is a **Section 18A**-approved organisation; your donation qualifies for a South African tax deduction.
