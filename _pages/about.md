@@ -38,10 +38,12 @@ This is why we focus our work in Mamelodi.  Our academic and skills-based progra
 
 ## Our History
 
-The Mamelodi Initiative was started in 2007 as a collaborative effort comprised
-of individuals who care about the future of the Mamelodi Township and its youth.
-In 2010, the initiative evolved to focus specifically on education, developing a
-structured year-round programming model. Today, thousands of youth have
+The Mamelodi Initiative traces its roots to June 2007, when a small group of
+volunteers began working alongside members of the Mamelodi community. That work
+grew into a collaborative effort among individuals who care about the future of
+Mamelodi and its youth. In 2010, the Mamelodi Initiative was formally
+established with a specific focus on education, developing a structured
+year-round programming model. Today, thousands of youth have
 benefited from programming provided through the initiative. The coalition offers
 a variety of engaging opportunities, from computer literacy to sports to holiday
 camps, all aimed at improving and empowering Mamelodi teens.
