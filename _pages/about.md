@@ -38,11 +38,12 @@ This is why we focus our work in Mamelodi.  Our academic and skills-based progra
 
 ## Our History
 
-The Mamelodi Initiative was started in 2007 as a collaborative effort comprised
-of individuals who care about the future of the Mamelodi Township and its youth.
-In 2010, the initiative evolved to focus specifically on education, developing a
-structured year-round programming model. Today, thousands of youth have
-benefited from programming provided through the initiative. The coalition offers
+The Mamelodi Initiative traces its roots to 2007 as a collaborative effort among
+individuals who care about the future of Mamelodi and its youth. In 2010, the
+Initiative was formally established with a specific focus on education,
+developing a structured year-round programming model. Today, thousands of youth
+have benefited from programming provided through the Initiative. The coalition
+offers
 a variety of engaging opportunities, from computer literacy to sports to holiday
 camps, all aimed at improving and empowering Mamelodi teens.
 
@@ -70,12 +71,14 @@ Our staff plan and execute all programmes in Mamelodi.
 
 Our Advisory Board provides strategic direction, fundraising support, and organizational accountability.
 
-- Nkateko Ndebele, Co-Chair
-- Cynthia Ayeza, Co-Chair
-- Michael Silvestri, Treasurer
-- Andrew Chi
-- Tom Rudelius
-- Nkosinathi Matsenjwa
-- Abongile Onah
-- Valerie Pierce
-- Itumeleng Mashifane
+- [Nkateko Ndebele](/team/#nkateko-ndebele), Co-Chair
+- [Cynthia Ayeza](/team/#cynthia-ayeza), Co-Chair
+- [Andrew Chi](/team/#andrew-chi), Vice Chair
+- [Michael Silvestri](/team/#michael-silvestri), Treasurer
+- [Itumeleng Mashifane](/team/#itumeleng-mashifane)
+- [Nkosinathi Matsenjwa](/team/#nkosinathi-matsenjwa)
+- [Abongile Onah](/team/#abongile-onah)
+- [Valerie Aw Pierce](/team/#valerie-aw-pierce)
+- [Tom Rudelius](/team/#tom-rudelius)
+
+[Meet the board →](/team/)

@@ -1,0 +1,35 @@
+/* Team page (/team/): circular photo in a left column, bio in a column to its right
+   (text never wraps under the photo) */
+$team-photo-size: 150px;
+$team-photo-size-small: 80px;
+
+.team-member {
+  position: relative;
+  min-height: $team-photo-size;
+  padding-left: $team-photo-size + 32px;
+  margin-bottom: 2.5em;
+
+  @include breakpoint(max-width $small) {
+    min-height: $team-photo-size-small;
+    padding-left: $team-photo-size-small + 16px;
+  }
+}
+
+.team-photo {
+  position: absolute;
+  top: 0.25em;
+  left: 0;
+  width: $team-photo-size;
+  height: $team-photo-size;
+  border-radius: 50%;
+  object-fit: cover;
+
+  @include breakpoint(max-width $small) {
+    width: $team-photo-size-small;
+    height: $team-photo-size-small;
+  }
+}
+
+.team-role {
+  color: $muted-text-color;
+}

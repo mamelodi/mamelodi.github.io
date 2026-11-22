@@ -19,4 +19,5 @@
 - Assets: store images in [assets/images](assets/images) and reference with absolute `/assets/...` paths; prefer `header.teaser` for post list thumbnails.
 - Site metadata (title, subtitle, author links, social placeholders) is configured in [_config.yml](_config.yml); keep `locale` and `url` consistent.
 - Prefer theme overrides via local `_includes`, `_layouts`, or `_sass` rather than modifying generated or remote theme files.
+- Custom CSS lives in partials under [_sass](_sass) (e.g. [_sass/_team.scss](_sass/_team.scss)), imported at the bottom of [assets/css/main.scss](assets/css/main.scss); keep the top of `main.scss` identical to the theme's own copy for the pinned version so theme upgrades stay easy.
 - When adding new section pages, mirror existing front matter patterns to maintain layout consistency and navigation expectations.
