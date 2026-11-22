@@ -80,5 +80,3 @@ Our Advisory Board provides strategic direction, fundraising support, and organi
 - [Abongile Onah](/team/#abongile-onah)
 - [Valerie Aw Pierce](/team/#valerie-aw-pierce)
 - [Tom Rudelius](/team/#tom-rudelius)
-
-[Meet the board →](/team/)
