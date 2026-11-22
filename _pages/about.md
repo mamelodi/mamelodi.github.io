@@ -69,7 +69,7 @@ Our staff plan and execute all programmes in Mamelodi.
 
 ### Advisory Board
 
-Our Advisory Board provides strategic direction, fundraising support, and organizational accountability. Select a name below to read that member's full bio.
+Our Advisory Board provides strategic direction, fundraising support, and organizational accountability. Select a name below to read that member's full bio, or [read all board bios](/team/).
 
 - [Nkateko Ndebele](/team/#nkateko-ndebele), Co-Chair
 - [Cynthia Ayeza](/team/#cynthia-ayeza), Co-Chair
