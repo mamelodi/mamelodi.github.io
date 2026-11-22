@@ -70,12 +70,14 @@ Our staff plan and execute all programmes in Mamelodi.
 
 Our Advisory Board provides strategic direction, fundraising support, and organizational accountability.
 
-- Nkateko Ndebele, Co-Chair
-- Cynthia Ayeza, Co-Chair
-- Michael Silvestri, Treasurer
-- Andrew Chi
-- Tom Rudelius
-- Nkosinathi Matsenjwa
-- Abongile Onah
-- Valerie Pierce
-- Itumeleng Mashifane
+- [Nkateko Ndebele](/team/#nkateko-ndebele), Co-Chair
+- [Cynthia Ayeza](/team/#cynthia-ayeza), Co-Chair
+- [Andrew Chi](/team/#andrew-chi), Vice Chair
+- [Michael Silvestri](/team/#michael-silvestri), Treasurer
+- [Tom Rudelius](/team/#tom-rudelius)
+- [Nkosinathi Matsenjwa](/team/#nkosinathi-matsenjwa)
+- [Abongile Onah](/team/#abongile-onah)
+- [Valerie Aw Pierce](/team/#valerie-aw-pierce)
+- [Itumeleng Mashifane](/team/#itumeleng-mashifane)
+
+[Meet the board →](/team/)
