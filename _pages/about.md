@@ -74,10 +74,10 @@ Our Advisory Board provides strategic direction, fundraising support, and organi
 - [Cynthia Ayeza](/team/#cynthia-ayeza), Co-Chair
 - [Andrew Chi](/team/#andrew-chi), Vice Chair
 - [Michael Silvestri](/team/#michael-silvestri), Treasurer
-- [Tom Rudelius](/team/#tom-rudelius)
+- [Itumeleng Mashifane](/team/#itumeleng-mashifane)
 - [Nkosinathi Matsenjwa](/team/#nkosinathi-matsenjwa)
 - [Abongile Onah](/team/#abongile-onah)
 - [Valerie Aw Pierce](/team/#valerie-aw-pierce)
-- [Itumeleng Mashifane](/team/#itumeleng-mashifane)
+- [Tom Rudelius](/team/#tom-rudelius)
 
 [Meet the board →](/team/)

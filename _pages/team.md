@@ -30,10 +30,10 @@ Andrew is a computer scientist at Cisco Systems, where he supports detection of 
 Mike Silvestri is a co-founder of the Mamelodi Initiative and has served as Board Treasurer since its inception in 2010. An impact investor at Social Finance, he brings experience aligning capital with measurable social outcomes and strengthening financial stewardship. Previously, he was a strategy consultant at FSG and Oliver Wyman, where he advised foundations and Fortune 500 companies on complex social challenges across education, health, and workforce development. His combination of investment, consulting, and nonprofit leadership experience supports the Initiative's commitment to accountability, strategic clarity, financial sustainability, and long-term, community-driven impact. He holds an MBA, an MPP, and a BA from Harvard University.
 {: #michael-silvestri .team-member}
 
-![Tom Rudelius](/assets/images/board/tom-rudelius.jpg){: .team-photo}
-**Tom Rudelius**<br>
-Tom Rudelius is a professor of mathematical physics at Durham University in Northern England, where he researches string theory, quantum field theory, and early universe cosmology. He has been involved with the Mamelodi Initiative since 2014, and he joined the board in 2018. He holds a PhD in physics from Harvard University.
-{: #tom-rudelius .team-member}
+![Itumeleng Mashifane](/assets/images/board/itumeleng-mashifane.jpg){: .team-photo}
+**Itumeleng Mashifane**<br>
+Itumeleng was born and raised in Mamelodi and is an alumnus of the Mamelodi Initiative's after-school programme. He has been serving on the board since 2024. He is currently based in Berlin, Germany, working as a consultant specialising in project management and automation solutions for the software company SAP. He holds a BSc in Chemical Engineering from Wits University.
+{: #itumeleng-mashifane .team-member}
 
 ![Nkosinathi Matsenjwa](/assets/images/board/nkosinathi-matsenjwa.jpg){: .team-photo}
 **Nkosinathi Matsenjwa**<br>
@@ -50,7 +50,7 @@ Abongile is an admitted attorney who has been working in the customer success sp
 Valerie has been a part of MI since 2011, when she first volunteered as a student at Boston University. She counts it an incredible joy to continue to be a part of MI through her affiliate work with Cru and now as a board member. She currently lives in Boston with her family, co-owns a local coffee shop, and creates watercolor stationery on the side.
 {: #valerie-aw-pierce .team-member}
 
-![Itumeleng Mashifane](/assets/images/board/itumeleng-mashifane.jpg){: .team-photo}
-**Itumeleng Mashifane**<br>
-Itumeleng was born and raised in Mamelodi and is an alumnus of the Mamelodi Initiative's after-school programme. He has been serving on the board since 2024. He is currently based in Berlin, Germany, working as a consultant specialising in project management and automation solutions for the software company SAP. He holds a BSc in Chemical Engineering from Wits University.
-{: #itumeleng-mashifane .team-member}
+![Tom Rudelius](/assets/images/board/tom-rudelius.jpg){: .team-photo}
+**Tom Rudelius**<br>
+Tom Rudelius is a professor of mathematical physics at Durham University in Northern England, where he researches string theory, quantum field theory, and early universe cosmology. He has been involved with the Mamelodi Initiative since 2014, and he joined the board in 2018. He holds a PhD in physics from Harvard University.
+{: #tom-rudelius .team-member}
